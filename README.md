@@ -1,2 +1,2 @@
 # Sanbercode-Python_Data_Science
-Batch 30
+Sanbercode Python Data Science Batch 30
